@@ -1,182 +1,90 @@
 # Book-Management-Syatem-using-linklist
 
-# output
 
 ****MENU****
-
 1.CREATE LIBRARY
-
 2.DISPLAY BOOKS
-
 3.COUNT BOOK
-
 4.SEARCH BOOK
-
 5.ADD BOOK
-
 6.EXIT
-
 ENTER UR CHOICE : 1
 
 
 HOW MANY BOOKS DO U WANT TO ADD : 2
 
 ENTER BOOK NAME : paddy
-
+Book Added
 ENTER BOOK NAME : shubham
-
+Book Added
+Library Created
 ****MENU****
-
 1.CREATE LIBRARY
-
 2.DISPLAY BOOKS
-
 3.COUNT BOOK
-
 4.SEARCH BOOK
-
 5.ADD BOOK
-
 6.EXIT
-
-ENTER UR CHOICE : 5
-
-
-HOW MANY NEW BOOKS DO U WANT TO ADD : 3
-
-ENTER BOOK NAME : divya
-
-ENTER BOOK NAME : rohit
-
-ENTER BOOK NAME : akhil
-
-****MENU****
-
-1.CREATE LIBRARY
-
-2.DISPLAY BOOKS
-
-3.COUNT BOOK
-
-4.SEARCH BOOK
-
-5.ADD BOOK
-
-6.EXIT
-
 ENTER UR CHOICE : 2
-
- paddy
-
- shubham
-
- divya
-
- rohit
-
- akhil
-
+Book Names : 	 paddy		 shubham	
 ****MENU****
-
 1.CREATE LIBRARY
-
 2.DISPLAY BOOKS
-
 3.COUNT BOOK
-
 4.SEARCH BOOK
-
 5.ADD BOOK
-
 6.EXIT
-
 ENTER UR CHOICE : 3
 
- No Of Books Are	 5
- 
+ No Of Books Are	 2
 ****MENU****
-
 1.CREATE LIBRARY
-
 2.DISPLAY BOOKS
-
 3.COUNT BOOK
-
 4.SEARCH BOOK
-
 5.ADD BOOK
-
 6.EXIT
-
-ENTER UR CHOICE : 4
-
-ENTER THE BOOK NAME FOR SEARCH : rohit
-
-rohit Is Found
-
-****MENU****
-
-1.CREATE LIBRARY
-
-2.DISPLAY BOOKS
-
-3.COUNT BOOK
-
-4.SEARCH BOOK
-
-5.ADD BOOK
-
-6.EXIT
-
 ENTER UR CHOICE : 5
 
 
-HOW MANY NEW BOOKS DO U WANT TO ADD : 1
+HOW MANY NEW BOOKS DO U WANT TO ADD : 2
 
-ENTER BOOK NAME : suyasha
-
+ENTER BOOK NAME : rohit
+New Book Added
+ENTER BOOK NAME : akhil
+New Book Added
 ****MENU****
-
 1.CREATE LIBRARY
-
 2.DISPLAY BOOKS
-
 3.COUNT BOOK
-
 4.SEARCH BOOK
-
 5.ADD BOOK
-
 6.EXIT
+ENTER UR CHOICE : 4
 
-ENTER UR CHOICE : 2
+ENTER THE BOOK NAME FOR SEARCH : akhil
 
- paddy
-
- shubham
-
- divya
-
- rohit
-
- akhil
-
- suyasha
-
+akhil Is Available
 ****MENU****
-
 1.CREATE LIBRARY
-
 2.DISPLAY BOOKS
-
 3.COUNT BOOK
-
 4.SEARCH BOOK
-
 5.ADD BOOK
-
 6.EXIT
+ENTER UR CHOICE : 4
 
+ENTER THE BOOK NAME FOR SEARCH : anis    pradhyum
+
+pradhyum is Not Available
+****MENU****
+1.CREATE LIBRARY
+2.DISPLAY BOOKS
+3.COUNT BOOK
+4.SEARCH BOOK
+5.ADD BOOK
+6.EXIT
 ENTER UR CHOICE : 6
+
 
 
