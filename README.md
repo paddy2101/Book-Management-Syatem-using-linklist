@@ -1,6 +1,11 @@
 # Book-Management-Syatem-using-linklist
 
+# steps
+ 1) Run book management system sll.c file
+ 2) Select Your Choice From Menu by entering menu number
+ 3) Press 6 if you want to exit
 
+# output
 ****MENU***
 
 1.CREATE LIBRARY
