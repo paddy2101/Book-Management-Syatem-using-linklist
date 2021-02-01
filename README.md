@@ -1,49 +1,85 @@
 # Book-Management-Syatem-using-linklist
 
 
-****MENU****
+****MENU***
+
 1.CREATE LIBRARY
+
 2.DISPLAY BOOKS
+
 3.COUNT BOOK
+
 4.SEARCH BOOK
+
 5.ADD BOOK
+
 6.EXIT
+
 ENTER UR CHOICE : 1
 
 
 HOW MANY BOOKS DO U WANT TO ADD : 2
 
 ENTER BOOK NAME : paddy
+
 Book Added
+
 ENTER BOOK NAME : shubham
+
 Book Added
+
 Library Created
+
 ****MENU****
+
 1.CREATE LIBRARY
+
 2.DISPLAY BOOKS
+
 3.COUNT BOOK
+
 4.SEARCH BOOK
+
 5.ADD BOOK
+
 6.EXIT
+
 ENTER UR CHOICE : 2
-Book Names : 	 paddy		 shubham	
+
+Book Names : paddy	shubham	
+
 ****MENU****
+
 1.CREATE LIBRARY
+
 2.DISPLAY BOOKS
+
 3.COUNT BOOK
+
 4.SEARCH BOOK
+
 5.ADD BOOK
+
 6.EXIT
+
 ENTER UR CHOICE : 3
 
  No Of Books Are	 2
+ 
 ****MENU****
+
 1.CREATE LIBRARY
+
 2.DISPLAY BOOKS
+
 3.COUNT BOOK
+
 4.SEARCH BOOK
+
 5.ADD BOOK
+
 6.EXIT
+
 ENTER UR CHOICE : 5
 
 
@@ -51,40 +87,67 @@ ENTER UR CHOICE : 5
 HOW MANY NEW BOOKS DO U WANT TO ADD : 2
 
 ENTER BOOK NAME : rohit
+
 New Book Added
+
 ENTER BOOK NAME : akhil
+
 New Book Added
+
 ****MENU****
+
 1.CREATE LIBRARY
+
 2.DISPLAY BOOKS
+
 3.COUNT BOOK
+
 4.SEARCH BOOK
+
 5.ADD BOOK
+
 6.EXIT
+
 ENTER UR CHOICE : 4
 
 ENTER THE BOOK NAME FOR SEARCH : akhil
 
 akhil Is Available
+
 ****MENU****
+
 1.CREATE LIBRARY
+
 2.DISPLAY BOOKS
+
 3.COUNT BOOK
+
 4.SEARCH BOOK
+
 5.ADD BOOK
+
 6.EXIT
+
 ENTER UR CHOICE : 4
 
 ENTER THE BOOK NAME FOR SEARCH : anis    pradhyum
 
 pradhyum is Not Available
+
 ****MENU****
+
 1.CREATE LIBRARY
+
 2.DISPLAY BOOKS
+
 3.COUNT BOOK
+
 4.SEARCH BOOK
+
 5.ADD BOOK
+
 6.EXIT
+
 ENTER UR CHOICE : 6
 
 
