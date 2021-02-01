@@ -46,7 +46,7 @@ Library Created
 
 ENTER UR CHOICE : 2
 
-Book Names : paddy	shubham	
+Book Names :   paddy	  shubham	
 
 ****MENU****
 
@@ -130,7 +130,7 @@ akhil Is Available
 
 ENTER UR CHOICE : 4
 
-ENTER THE BOOK NAME FOR SEARCH : anis    pradhyum
+ENTER THE BOOK NAME FOR SEARCH : pradhyum
 
 pradhyum is Not Available
 
